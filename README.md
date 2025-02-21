@@ -1,18 +1,22 @@
 Data Analytics Portfolio
 
 👨‍💻 Ndovela Nkululeko  
+
 Senior Data Analyst  
+
 📍 Gauteng, Sandton, 2196 | 📞 0781851046 | ✉️ ndovelankululekoree1@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/nkululeko-ndovela/)  
 
 
 
 📌 Professional Summary
+
 Results-driven Data Analyst with 5+ years of experience in data extraction, cleaning, transformation, and reporting. Skilled in leveraging SQL, ETL tools, and cloud technologies to process complex datasets and develop actionable insights. Adept at creating scalable data solutions and interactive dashboards using Power BI and Tableau. Expertise in database management, statistical analysis, and predictive modeling. Passionate about delivering innovative solutions that drive business performance and inform strategic decision-making.
 
 
 
 🛠 Skills & Strengths
+
 ✅ Data Analysis & Reporting: SQL, Power BI, Tableau, Excel  
 ✅ ETL & Data Engineering: Talend, SSIS, Python  
 ✅ Cloud Technologies: Amazon S3, Redshift, Microsoft Azure  
@@ -24,6 +28,7 @@ Results-driven Data Analyst with 5+ years of experience in data extraction, clea
 
 
 📜 Certifications
+
 🎓 Microsoft Azure for Data Engineering – Coursera, May 2022  
 🎓 Programming for Everybody (Python) – Coursera, May 2022 - Aug 2022  
 🎓 Microsoft Azure Associate – Microsoft, June 2023  
@@ -32,19 +37,23 @@ Results-driven Data Analyst with 5+ years of experience in data extraction, clea
 
 
 📚 Publications
+
 📄 Investigating The Impact of Using Microsoft Teams for Teaching and Learning  
 🔗 [Read on IEEE](https://ieeexplore.ieee.org/document/9782376) (June 2021)  
 
 
 
 🏆 Achievements
+
 🏅 Standard Bank Hackathon Winner – Jul 2018  
 🚗 Driving License: Code 10  
 
 
 
 💼 Professional Experience
+
 Data Analyst & Data Specialist  
+
 📍 QI Solutions (Pty) Ltd, Sandton  
 🗓️ Jan 2022 – Present  
 - Designed and implemented ETL pipelines to extract, clean, and transform large datasets.  
@@ -67,6 +76,7 @@ Data Specialist
 
 
 🎓 Education
+
 🎓 Bachelor’s Degree in Information Technology  
 📍 Walter Sisulu University of Technology and Science  
 🎓 Graduation: 2021  
@@ -74,13 +84,15 @@ Data Specialist
 - Presented final-year research at IEEE.  
 - Achieved distinctions in 75% of modules.  
 
-🎓 Diploma in Information Technology  
+🎓 Diploma in Information Technology 
+
 📍 Walter Sisulu University of Technology and Science  
 🎓 Graduation: 2019  
 
 
 
 📂 Project Portfolio
+
 Each project includes data analysis, SQL queries, Power BI dashboards, and insights.
 
 1️⃣ Education Data Analysis (South Africa) 📚  
