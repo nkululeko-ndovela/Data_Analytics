@@ -8,7 +8,7 @@ Senior Data Analyst
 
 
 📌 Professional Summary
-Results-driven Data Analyst with 3+ years of experience in data extraction, cleaning, transformation, and reporting. Skilled in leveraging SQL, ETL tools, and cloud technologies to process complex datasets and develop actionable insights. Adept at creating scalable data solutions and interactive dashboards using Power BI and Tableau. Expertise in database management, statistical analysis, and predictive modeling. Passionate about delivering innovative solutions that drive business performance and inform strategic decision-making.
+Results-driven Data Analyst with 5+ years of experience in data extraction, cleaning, transformation, and reporting. Skilled in leveraging SQL, ETL tools, and cloud technologies to process complex datasets and develop actionable insights. Adept at creating scalable data solutions and interactive dashboards using Power BI and Tableau. Expertise in database management, statistical analysis, and predictive modeling. Passionate about delivering innovative solutions that drive business performance and inform strategic decision-making.
 
 
 
