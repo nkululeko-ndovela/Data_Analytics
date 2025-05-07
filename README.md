@@ -110,14 +110,12 @@ Description: Examining seasonal trends, revenue impact, visitor demographics, an
 Key Tools: Power BI, SQL, Python (Seaborn, Matplotlib).  
 🔗 [View Project](./Tourism-Data-SouthAfrica/README.md)  
 
-4️⃣ Gambling Data Analysis (South Africa) 🎰  
-Description: Understanding betting behavior, revenue forecasting, and fraud detection in the gambling industry.  
+4️⃣ Gambling Data Analysis 🎰  
+Description: Understanding betting behavior, revenue forecasting, Analysing data from different betting companies(BetXchange,BetWay and Hollywood bets), and fraud detection in the gambling industry.  
 Key Tools: Power BI, SQL.  
 🔗 [View Project](./Gambling-Data-SouthAfrica/README.md)  
 
 
-
-🚀 Next Steps
 🔹 More projects coming soon! Stay tuned.  
 🔹 Feel free to explore, fork, and reach out if you have any questions!  
 
