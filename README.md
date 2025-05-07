@@ -108,7 +108,7 @@ Key Tools: SQL, Power BI, Python.
 3️⃣ Tourism Data Analysis (South Africa) 🌍  
 Description: Examining seasonal trends, revenue impact, visitor demographics, and economic influence.  
 Key Tools: Power BI, SQL, Python (Seaborn, Matplotlib).  
-🔗 [View Project](./Tourism-Data-SouthAfrica/README.md)  
+🔗 [View Project](https://github.com/nkululeko-ndovela/SA_Wild_Coast_tourism_analysis)  
 
 4️⃣ Gambling Data Analysis 🎰  
 Description: Understanding betting behavior, revenue forecasting, Analysing data from different betting companies(BetXchange,BetWay and Hollywood bets), and fraud detection in the gambling industry.  
