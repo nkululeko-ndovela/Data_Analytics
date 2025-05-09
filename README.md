@@ -118,11 +118,10 @@ Key Tools: Power BI, SQL.
 5️⃣ Sales Data Analysis 📈  
 Description: A comprehensive analysis of sales performance across products, categories, and regions, with insights into customer satisfaction, pricing strategies, and revenue trends. The project identifies high-performing products, discount impacts, and regional buying patterns to inform strategic decision-making.
 Key Tools: Power BI, Excel, PostgreSQL/SQL.
-🔗 [View Project](https://github.com/nkululeko-ndovela/betXchange_sql_scripts.git)  
-
+🔗 [View Project](https://github.com/nkululeko-ndovela/sales_analysis/tree/main)  
 
 🔹 More projects coming soon! Stay tuned.  
 🔹 Feel free to explore, fork, and reach out if you have any questions!  
 
-💡 Want to collaborate? Let’s connect! 🎯  
+💡 Want to collaborate or dataset? Let’s connect! 🎯  
 📧 Contact: ndovelankululekoree1@gmail.com
