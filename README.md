@@ -115,6 +115,11 @@ Description: Understanding betting behavior, revenue forecasting, Analysing data
 Key Tools: Power BI, SQL.  
 🔗 [View Project](https://github.com/nkululeko-ndovela/betXchange_sql_scripts.git)  
 
+5️⃣ Sales Data Analysis 📈  
+Description: A comprehensive analysis of sales performance across products, categories, and regions, with insights into customer satisfaction, pricing strategies, and revenue trends. The project identifies high-performing products, discount impacts, and regional buying patterns to inform strategic decision-making.
+Key Tools: Power BI, Excel, PostgreSQL/SQL.
+🔗 [View Project](https://github.com/nkululeko-ndovela/betXchange_sql_scripts.git)  
+
 
 🔹 More projects coming soon! Stay tuned.  
 🔹 Feel free to explore, fork, and reach out if you have any questions!  
